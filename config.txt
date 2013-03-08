@@ -1,0 +1,3 @@
+MUSIC_PATH = D:/sdhumming/Gao/midi/
+BuildModelExecutable = D:/sdhumming/Gao/midi/SDHBuildModel.exe
+MUSIC_PLAYER = D:/Soft/foobar2000/foobar2000.exe
